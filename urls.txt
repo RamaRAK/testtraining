@@ -1,0 +1,11 @@
+https://owasp.org/www-project-application-security-verification-standard/
+https://owasp.org/www-pdf-archive/OWASP_Application_Security_Verification_Standard_4.0-en.pdf
+https://owasp.org/Top10/
+
+url for attack
+https://demo.testfire.net/login.jsp
+https://www.google.com/search?q=internet+speed+test&oq=&aqs=chrome.5.35i39i362l3j46i39i199i362i465j35i39i362l4.52846j0j7&sourceid=chrome&ie=UTF-8
+https://fast.com/
+
+testing crashtest pdf
+file:///C:/Users/karthik/Downloads/CloudTesting_Guide_20220316.pdf
